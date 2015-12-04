@@ -1,4 +1,7 @@
 # whimsy-test
 whimsy test
 
-bla bla bla
+Just a sample
+test file
+to test
+things
