@@ -2,6 +2,4 @@
 whimsy test
 
 Just a sample
-test file
-to test
-things
+bla bla bla thing
